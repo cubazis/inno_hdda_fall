@@ -5,11 +5,11 @@ This project has [wiki](https://github.com/cubazis/inno_hdda_fall/wiki).
 As the course develops, useful pages will be generated there, which may be useful to you.
 
 The first thing you need to do is read the recommendations for using the IDE, the compiler and other build tools. This information you can get on the wiki [Toolkit](https://github.com/cubazis/inno_hdda_fall/wiki/Toolkit) page.
-It will help you make your first CORRECT steps in learning the C language and that make life easier.
+It will help you make your first CORRECT steps in learning the HDDA and that make life easier.
 
 Further please read the policy of handing over laboratory works and homeworks. You will receive this information on the [Workload](https://github.com/cubazis/inno_hdda_fall/wiki/Workload) wiki page.
 
-Since we use github as part of the course, please read the [C on Git (HowTo)](https://github.com/cubazis/inno_hdda_fall/wiki/C-on-Git-(HowTo)) page. This page provides a minimal step-by-step deployment plan from the C project to github.
+Since we use github as part of the course, please read the [Py on Git (HowTo)](https://github.com/cubazis/inno_hdda_fall/wiki/Py-on-Git-(HowTo)) page. This page provides a minimal step-by-step deployment plan from the C project to github.
 
 
 Links to the course materials will appear in [README](https://github.com/cubazis/inno_hdda_fall/blob/master/README.md), so please check the current changes in this file.
@@ -30,7 +30,7 @@ Martian Roadmap:
 - [1 Sol: ](lectures/lecture1.pdf)
 - [2 Sol: ](lectures/lecture2.pdf)
     - [Lab Session 1](labs/lab2/README.md)
-    - [Assignment 1](assignments/ha1/ha2.pdf)
+    - [Assignment 1](assignments/ha2/README.md)
 ___
 
 Schedule and team lineups can be found on [wiki page](https://github.com/cubazis/inno_hdda_fall/wiki/Schedule-&-lineups
