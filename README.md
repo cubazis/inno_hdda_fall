@@ -29,7 +29,7 @@ Each Sol contains lecture, lab session and assignment materials.
 Martian Roadmap:
 - [1 Sol: ](lectures/lecture1.pdf)
 - [2 Sol: ](lectures/lecture2.pdf)
-    - [Lab Session 1](labs/lab2/README.md)
+    - [Lab Session 1](labs/lab2/HDDA.%20Lab%20Session%20%232.ipynb)
     - [Assignment 1](assignments/ha2/README.md)
 ___
 
