@@ -105,3 +105,6 @@ venv.bak/
 
 # project
 workbench/*
+labs/Bios8366/
+labs/MTH594_MachineLearning/
+assignments/midterm/draft.ipynb
