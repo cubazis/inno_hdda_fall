@@ -112,4 +112,6 @@ assignments/midterm/draft.ipynb
 assignments/midterm/url_svmlight.tar.gz
 assignments/midterm/url_svmlight/
 assignments/midterm/midterm.zip
-
+assignments/midterm/grading/*
+assignments/midterm/cw_fa_code/*
+assignments/midterm/*.pdf
